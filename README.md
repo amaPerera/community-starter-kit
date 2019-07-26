@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Mona is part of a growing team of developers. To help onboard new teammates, Mona has created a slick Probot app called Welcome. Welcome automatically generates friendly messages when new team members create their first issue and open or merge their first pull request.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Generates friendly messages when new team members create their first issue 
+- Generates friendly messages when new team members open or merge their first pull request.
 
 ## Getting started
 
